@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [Jenkins] 원격지에서 Maven 빌드를 할때
+title: 신규 블로그 만들기2
 ---
 
 
