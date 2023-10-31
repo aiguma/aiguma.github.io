@@ -1,3 +1,8 @@
+---
+layout: post
+title: [Jenkins] 원격지에서 Maven 빌드를 할때
+---
+
 Jenkins 세팅에서 원격지 서버에서 Maven을 빌드 해서 적용하고 싶을 경우가 있다 
 
 기본적으로 Ubuntu 터미널에서 Maven 사용할때는
